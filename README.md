@@ -116,7 +116,8 @@ make test_objects
 ./test_objects
 ```
 
-<img width="1600" height="425" alt="image" src="https://github.com/user-attachments/assets/c7b25ff9-d215-4198-8907-5c66eafcc9d5" />
+<img width="1906" height="840" alt="image" src="https://github.com/user-attachments/assets/c4934133-6f67-4a2f-b014-d931eb63d618" />
+
 
 
 Expected checks:
@@ -131,7 +132,8 @@ Useful command:
 find .pes/objects -type f
 ```
 
-<img width="1600" height="282" alt="image" src="https://github.com/user-attachments/assets/91c7d7e8-02af-4a27-9387-50c5de20a297" />
+<img width="1725" height="451" alt="image" src="https://github.com/user-attachments/assets/236bff52-7e0b-487a-a7b2-a69175636d15" />
+
 
 
 ---
