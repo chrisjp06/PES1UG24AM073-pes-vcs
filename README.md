@@ -132,7 +132,8 @@ Useful command:
 find .pes/objects -type f
 ```
 
-<img width="1725" height="451" alt="image" src="https://github.com/user-attachments/assets/236bff52-7e0b-487a-a7b2-a69175636d15" />
+<img width="1200" height="57" alt="image" src="https://github.com/user-attachments/assets/54079840-0c44-41f8-b2e9-fcb135896a6e" />
+
 
 
 
@@ -205,7 +206,7 @@ make test_tree
 ./test_tree
 ```
 
-<img width="1278" height="346" alt="image" src="https://github.com/user-attachments/assets/ca95d84d-0109-4edc-8870-d84d1e23da15" />
+<img width="1644" height="462" alt="image" src="https://github.com/user-attachments/assets/dedf6f4c-e22d-42ec-a65e-4a745ef5e487" />
 
 
 
@@ -236,7 +237,7 @@ To inspect the raw binary object:
 xxd .pes/objects/02/1657cde88428337031b3a946b7d1253ec80a7893aaa22dc4c2332ac201b2d3 | head -20
 ```
 
-<img width="1600" height="418" alt="image" src="https://github.com/user-attachments/assets/38e1da3d-dbef-46c4-90e8-dd5a94bb760e" />
+
 
 
 ---
